@@ -11,7 +11,7 @@ Forked from: Ian Dunn: https://github.com/iandunn/admin-notice-helper
 */
 
 /*  
- * Copyright 2016 Ian Dunn (email : maugelves@wpdevels.es)
+ * Copyright 2016 Mauricio Gelves (email : maugelves@wpdevels.es)
  * 
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License, version 2, as 
